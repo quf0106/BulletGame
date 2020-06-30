@@ -60,6 +60,7 @@
      <Compile Include="Assets\BulletSpawner.cs" />
      <Compile Include="Assets\Cat.cs" />
      <Compile Include="Assets\CatPlayer.cs" />
+     <Compile Include="Assets\Exit.cs" />
      <Compile Include="Assets\Gamemanager.cs" />
      <Compile Include="Assets\PlayerController.cs" />
  <Reference Include="Unity.Timeline.Editor">
